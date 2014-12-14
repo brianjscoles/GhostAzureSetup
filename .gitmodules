@@ -6,6 +6,6 @@
   path = content/themes/bentley
   url = https://bitbucket.org/Caffein8/bentley.git
 
-[submodule "content/themes/casper"]
+[submodule "content/themes/myjourney"]
 	path = content/themes/my-journey
 	url = https://github.com/dime01/my-journey
