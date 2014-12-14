@@ -11,24 +11,8 @@ config = {
     // Configure your URL and mail settings here
     production: {
         url: 'http://scoles.azurewebsites.net/',
-        mail: {},
-        database: {
-            client: 'sqlite3',
-            connection: {
-                filename: path.join(__dirname, '/content/data/ghost.db')
-            },
-            debug: false
-        },
-
-        server: {
-            // Host to be passed to node's `net.Server#listen()`
-            host: '127.0.0.1',
-            // Port to be passed to node's `net.Server#listen()`, for azure set this to `process.env.PORT`
-            port: process.env.PORT
-        }
-    },
-
     // ### Development **(default)**
+    },
     development: {
         // The url to use when providing links to the site, E.g. in RSS and email.
         // Change this to your Ghost blogs published URL.
