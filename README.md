@@ -34,7 +34,7 @@ Check out the [Documentation](http://support.ghost.org/) for more detailed instr
 
 
 
-### Install from git
+### Install from git  
 
 If you're a developer or someone comfortable getting up and running from a `git clone`, this method is for you.
 
