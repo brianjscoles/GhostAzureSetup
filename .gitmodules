@@ -9,3 +9,7 @@
 [submodule "content/themes/myjourney"]
 	path = content/themes/my-journey
 	url = https://github.com/brianjscoles/my-journey-theme-v2
+
+[submodule "content/themes/Vapor"]
+  path = content/themes/Vapor
+  url = https://github.com/sethlilly/Vapor.git
