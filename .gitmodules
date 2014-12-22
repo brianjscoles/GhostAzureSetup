@@ -12,4 +12,4 @@
 
 [submodule "content/themes/Vapor"]
   path = content/themes/Vapor
-  url = https://github.com/sethlilly/Vapor.git
+  url = https://github.com/brianjscoles/Vapor.git
